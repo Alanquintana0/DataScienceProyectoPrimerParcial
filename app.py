@@ -7,8 +7,8 @@ from combined_attributes_adder import CombinedAttributesAdder
 
 
 st.image("https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",width =50,use_column_width=3)
-st.header('House prediction base in Californa Prices Values DataSet')
-st.write('Data Science course for predictions house value data')
+st.header('House Prediction Data Science proyect')
+st.write('Data Science for predictions house value data')
 
 col1, col2, col3 = st.columns(3)
 
