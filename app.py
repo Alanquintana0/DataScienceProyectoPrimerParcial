@@ -35,8 +35,7 @@ with st.container():
         (
             'Linear Regression', 
             'Decision Tree Regression', 
-            'Random Forest Regression', 
-            'Support Vector Regression'
+            'Random Forest Regression',
         )
     )
 
